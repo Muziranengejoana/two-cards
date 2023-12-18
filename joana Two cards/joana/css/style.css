@@ -1,0 +1,132 @@
+
+
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.Result{
+    color: white;
+    }
+    .div1{
+        background: linear-gradient(to bottom,rgb(46, 20, 245),rgb(92, 112, 227));
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        height:450px;
+        width:300px;
+        border-radius: 10px;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .div2{
+        background-color:whitesmoke;
+        height:450px;
+        width:300px;
+        border-radius: 7px;
+    }
+    .circle{
+        height: 200px;
+        width:200px;
+        background: linear-gradient(to bottom,rgb(22, 11, 237),rgb(114, 116, 245));
+        border-radius: 60%;
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .num{
+        font-weight: bolder;
+        font-size: 35px;
+        color: white;
+    }
+    .of{
+        color: lightgray;
+    }
+    .great{
+        color: white;
+        font-size:large;
+    }
+    .pres{
+        color: white;
+    }
+img{
+    padding-left: 10px;
+}
+.kids1{
+    margin-left:30px ;
+}
+.kids2{
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    background-color: rgb(241, 198, 227);
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 250px;
+}
+.reaction{
+    color: red;
+    justify-content: space-between;
+}
+.percentage{
+    color:black ;
+    font-weight: 900;
+    padding-left: 40px;
+}
+.kids3{
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    background-color: rgb(246, 234, 220);
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 250px;
+}
+.memory{
+    color: rgb(252, 164, 1);
+}
+.kids4{
+    border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    background-color: rgb(221, 244, 212);
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 250px;
+}
+.verbal{
+    color: rgb(5, 177, 48);
+}
+.kids5{
+   border-radius: 7px;
+    display: flex;
+    gap: 10px;
+    background-color: rgb(222, 219, 241);
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 250px;
+}
+.botton{
+    background-color:rgb(105, 104, 104);
+    color: white;
+    margin-top: 30px;
+    margin-left: 80px;
+    width: 150px;
+    height: 30px;
+    border-radius: 35px;
+    border: none;
+}
+.visual{
+    color: rgb(48, 5, 177);
+}
+
+.non{
+    color: lightslategray;
+}
+

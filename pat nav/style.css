@@ -1,0 +1,154 @@
+body{
+    background-color:lightgray;
+    }
+    
+    
+    .jojo{
+        width: 86%;
+        height: 100px;
+        background-color:black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 100px;
+    }
+    .jojo h1{
+        font-size: 40px;
+        color: white;
+        font-weight: 750;
+        
+    }
+    .menu{
+        display:flex;
+    }
+    .menu ul{
+        display: flex;
+        margin-right: 25px;
+    }
+    .menu ul li{
+        list-style: none;
+    }
+    .pat{
+        background-color:lightseagreen;
+        border-radius: 30px;
+        width: 85%;
+        height:25px;
+    }
+    .menu ul li a{
+        color: white;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 200;
+        padding: 8px 12px;
+        border-radius: 40px;
+        margin: 0px 10px;
+    }
+    
+
+
+    .menuss{
+        width: 86%;
+        height: 100px;
+        background-color:black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 100px;
+        margin-top: 100px;
+    }
+    .menuss h1{
+        font-size: 40px;
+        color: white;
+        font-weight: 750;
+    
+        padding-right: 250px;
+    }
+    .list{
+        display:flex;
+    }
+    
+    .list ul{
+        display: flex;
+        margin-right: 25px;
+    }
+    .list ul li{
+        list-style: none;
+    }
+    .wxc{
+        
+        width: 40%;
+        height: 35px;
+        padding-left:265px;
+    }
+    .contact {
+        background-color:lightseagreen;
+        border-radius: 30px;
+        width: 85%;
+        height:25px;
+        color:white;
+        font-weight: 300;
+        font-size: 20px;
+    }
+    
+    .list ul li a{
+        color: white;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 200;
+        padding: 8px 16px;
+        border-radius: 15px;
+        margin: 0px 10px;
+    
+    }   
+    
+
+
+
+
+    
+    
+    
+    .navs{
+        width: 86%;
+        height: 100px;
+        background-color:black;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row-reverse;
+        align-items: center;
+        padding: 10px 100px;
+        margin-top: 100px;
+    }
+    .navs h1{
+        font-size: 40px;
+        color: white;
+        font-weight: 750;
+        
+    }
+    .links{
+        display:flex;
+    }
+    .links ul{
+        display: flex;
+        margin-right: 25px;
+    }
+    .links ul li{
+        list-style: none;
+    }
+    .bobo {
+        background-color:lightseagreen;
+        border-radius: 30px;
+        width: 85%;
+        height:25px;
+    }
+    .links ul li a{
+        color: white;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 200;
+        padding: 8px 12px;
+        border-radius: 40px;
+        margin: 0px 10px;
+    }
+    
+    
